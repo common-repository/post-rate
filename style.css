@@ -1,0 +1,16 @@
+.ratingbox{ font-size:.9em; display:block; text-align:center; }
+
+.rating, .rating span, .rating a, .rating .l, .rating .r{ display:inline-block; }
+.rating{ cursor:default; }
+
+.rating{ font-size:22px; margin:.5em 0 0; }
+.rating a{ width:1em; height:1em; text-decoration:none; cursor:pointer; border:none !important; }
+
+.rating i{ height:100%; width:50%; background:#ccc url(star.png) no-repeat; background-size:auto 100%; }
+.rating .l{ float: left; background-position:left top; }
+.rating .r{ float: right; background-position:right top; }
+
+.rating .a i, .rating .h .l{ background-color:#666; }
+
+.rating span:hover i{ background-color:#ccc !important; }
+.rating span:hover > a i, .rating a:hover i{ background-color:#000 !important; }

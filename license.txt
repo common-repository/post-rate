@@ -1,0 +1,14 @@
+Postrate. Dieses Wordpress-Plugin fügt fünf Sterne zur Bewertung durch Besucher nach jedem einzelnen Artikel ein.
+Copyright (C) 2012 Danijar Hafner
+
+Dieses Programm ist freie Software: Sie können sie weitergeben und/oder modifizieren
+unter den Bedingungen der GNU General Public License, wie von der
+Free Software Foundation veröffentlicht, entweder gemäß Version 3 der Lizenz oder
+(nach Ihrer Option) jeder späteren Version.
+
+Dieses Programm wurde veröffentlicht in der Hoffnung, dass es hilfreich ist,
+aber OHNE IRGENDEINE GARANTIE; sogar ohne die implizite Garantie der
+MARKTGÄNGIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Siehe
+GNU General Public License für weitere Details.
+
+Es ist unter GNU General Public License lizenziert, siehe <http://www.gnu.org/licenses/>.
